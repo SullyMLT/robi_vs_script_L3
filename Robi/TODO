@@ -1,0 +1,37 @@
+IHM (Sully & Mathéo & Axel)
+
+- ajouter un bloc de démarrage (comme le drapeau sur scratch) (Sully)    // C'est fait
+- faire une classe "clone bouton" qui clone un bouton de fond en comble (Mathéo) // C'est fait 
+- faire une classe qui permet de faire les fonctionnalités d'un bouton (clic droit "supprimer") (Mathéo) // C'est fait
+- dans la case en bas à droite, faire les formes (genre rond, carré) etc qui quand cliquer demande un nom et apparait dans le champ en haut à droite //WORK IN PROGRESS (Sully)
+- Faire un nouvel onglet comme dans la ressource donnée par le prof où des instructions peuvent être taper à la main (Axel) // C'est fait
+- Affichage des images en haut � droite // C'est fait
+
+
+Serveur (Mathias)
+
+- Dans un premier temps, jouer la partie graphique côté serveur //DONE
+- Puis essayer de trouver une solution pour former depuis des rect x y h w des formes pour renvoyer en json // WORK IN PROGRESS
+
+
+- 1) Faire un serveur qui fait tourner la partie graphique et renvoie une image en base64 //C'est fait
+- 2) Faire un nouveau langage 
+
+
+Client
+
+-Envoyer en format JSON les instructions // WORK IN PROGRESS PLUS OU MOIN FAIT
+
+
+//IMPORTANT
+
+- Finaliser l'IHM scratch (mettre les sprites en bas � droite et afficher leurs scripts associ�s) // C'est FAIT
+- D�velopper la partie backend avec les commandes exemple (spriteActuelle commande valeur) 
+- D�velopper le fait que les scripts commence par un start (pour �viter tout probl�me)
+- JSON (Mathias)
+- Mettre bouton Avant/Apr�s pour les images (Sully) // C'est FAIT
+- Slider fonctionnel (Sully) // C'est fait
+- Charger un script / sauvegarder // C'est FAIT
+- Faire un menu avec File (Charger / Sauvegarder / Quitter) Onglets (Scratch / Coder � la main) � propos (Les auteurs) // C'est FAIT
+- Faire l'onglet IHM o� les scripts sont �crits � la main IHM (Axel) // C'est FAIT
+
